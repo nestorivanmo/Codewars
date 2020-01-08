@@ -9,4 +9,4 @@ DNA_stand("GTAT") # return "CATA"
 
 ## Though process
 
-![icon](images/Sketches 1.png)
+![icon](images/ComplementaryDNA.png)
