@@ -10,3 +10,7 @@ DNA_stand("GTAT") # return "CATA"
 ## Though process
 
 ![icon](images/ComplementaryDNA.png)
+
+## Script
+
+[complementary_dna.py](https://github.com/nestorivanmo/Codewars/blob/master/Python/Fundamentals/Scripts/ComplementaryDNA/complementary_dna.py)
